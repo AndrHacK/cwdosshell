@@ -1,2 +1,4 @@
 # cwdosshell
-CW-DDoS SHELL
+WEBSHELL
+DDoS. Script = PHP
+-AndrHacK
